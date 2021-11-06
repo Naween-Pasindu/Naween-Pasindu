@@ -11,3 +11,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Naween-Pasindu&show_icons=true&locale=en" alt="isuruvihan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naween-Pasindu" alt="isuruvihan" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naween-Pasindu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
