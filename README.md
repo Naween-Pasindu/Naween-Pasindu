@@ -8,5 +8,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naween-Pasindu&layout=compact&&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Naween-Pasindu&show_icons=true&locale=en" alt="Naween-Pasindu" /></p>
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Naween-Pasindu)](https://github.com/anuraghazra/github-readme-stats)
